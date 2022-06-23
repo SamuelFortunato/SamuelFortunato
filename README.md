@@ -1,4 +1,4 @@
-### Welcome to my github profile! ⛱️
+### Bem-vindo ao meu perfil! ⛱️
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yUkpWTAVHT)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/mukasztv)
