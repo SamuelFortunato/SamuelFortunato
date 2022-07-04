@@ -1,7 +1,6 @@
 ### Bem-vindo ao meu perfil! ⛱️
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yUkpWTAVHT)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/mukasztv)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/apenasomukasz)
 
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelfortunato&show_icons=true&theme=onedark)
