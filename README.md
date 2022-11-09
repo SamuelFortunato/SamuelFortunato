@@ -5,9 +5,9 @@
 
 - 🌱 Atualmente estudando **Python, JS, C++, C#, PHP, Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SamuelFortunato?tab=repositories](https://github.com/SamuelFortunato?tab=repositories)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/SamuelFortunato?tab=repositories](https://github.com/SamuelFortunato?tab=repositories)
 
-- 📫 How to reach me **samuelfortunatooficial@gmail.com**
+- 📫 Como chegar até mim **samuelfortunatooficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
