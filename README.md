@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Samuel Fortunato</h1>
 <h3 align="center">Um desenvolvedor apaixonado em Banco de Dados!</h3>
 
-- 📛 Atualmente trabalhando no **DokaVerse**
+- 📛 Atualmente trabalhando em **Diversos Projetos**
 
 - 🌱 Atualmente estudando **Python, JS, C++, C#, PHP, Java**
 
