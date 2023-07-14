@@ -1,10 +1,9 @@
-<h1 align="center">Olá, meu nome é Samuel Fortunato</h1>
+<h1 align="center">Olá, meu nome é Samuel Fortunato e tenho 15 anos</h1>
 <h3 align="center">Um desenvolvedor apaixonado em Banco de Dados!</h3>
 
 - 📛 Atualmente trabalhando em **Diversos Projetos**
-
+- 😎 Disposto a aprender e a ensinar!
 - 💍 Linguagem Preferida: **Python**
-
 - 🌱 Atualmente estudando **Python, JS, C++, C#, PHP, Java**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/SamuelFortunato?tab=repositories](https://github.com/SamuelFortunato?tab=repositories)
