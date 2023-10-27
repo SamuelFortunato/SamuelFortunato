@@ -4,7 +4,7 @@
 - 📛 Atualmente trabalhando em **Diversos Projetos**
 - 😎 Disposto a aprender e a ensinar!
 - 💍 Linguagem Preferida: **Python**
-- 🌱 Atualmente estudando **Python, JS, C++, C#, PHP, Java**
+- 🌱 Atualmente estudando **Python, JS.**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/SamuelFortunato?tab=repositories](https://github.com/SamuelFortunato?tab=repositories)
 
